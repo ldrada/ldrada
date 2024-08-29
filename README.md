@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **ldrada@up.edu.ph**
 
+Exercise 01 -- <b>Success!</b>
+Check out my Personal Github account: <a href="https://github.com/ldrada">ldrada</a> 
 <p align="left">
 </p>
 
