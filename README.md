@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Loise Jabson Rada</h1>
 <h3 align="center">A 4th-year BS Computer Science Student in UPLB. I am currently taking CMSC 100 Web development as one of my courses. What people should know about me is that I am originally from Santa Rosa, Laguna and that I have 1 sister. I do not have personal projects that much as I focus on my academic projects, but recently I worked on a project at my internship in UPOU called ABACUS which is a plugin that helps automate the migration of course and account data in their systems. such as Python, C, Java, and PHP. My hobbies include watching television series.</h3>
 
+- 💬 What people should know about me **is that I am originally from Santa Rosa, Laguna and that I have 1 sister.**
+- 
 - 🌱 On personal projects, **I do not have much as I focus on my academic projects, but recently I worked on a project at my internship in UPOU called ABACUS which is a plugin that helps automate the migration of course and account data in their systems.**
 
 - 👨‍💻 I have knowledge in programming languages **such as Python, C, Java, and PHP.**
 
-- 💬 What people should know about me **is that I am originally from Santa Rosa, Laguna and that I have 1 sister.**
+- ⚡ My hobbies **include watching television series.**
 
 - 📫 How to reach me **ldrada@up.edu.ph**
 
-- ⚡ Fun fact **My hobbies include watching television series.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
